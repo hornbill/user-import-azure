@@ -1,3 +1,3 @@
 # User Import - Azure to Hornbill
 
-See the [Hornbill Wiki](https://wiki.hornbill.com/index.php?title=Azure_User_Import) for documentation.
+See the [Data Imports Guide](https://docs.hornbill.com/data-imports-guide/users/azure/overview) for documentation.
